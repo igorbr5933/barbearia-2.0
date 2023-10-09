@@ -10,3 +10,10 @@ nav a{
   text-transform: uppercasa;
 }
 
+front-size: 22px;
+text-decoration: nome;
+nav{
+  poition:absolute;
+  top : 0;
+  right : 0;
+}
